@@ -1,6 +1,6 @@
-id=custom_cn_gps_fix
-name=HyperOS CN Offline GPS Fix
-version=v1.0
-versionCode=1
-author=Custom Fix
-description=Systemlessly overlays corrected gps.conf with Google SUPL to fix offline GPS locking on CN HyperOS ROMs.
+id=universal_gnss_optimizer
+name=Universal Dynamic GNSS & GPS Fix
+version=v2.0
+versionCode=200
+author=mrSnow-tr
+description=Detects device chipset (Qualcomm/MediaTek) and region to install a tailored, battery-friendly, high-precision GPS config for fast offline locks.
