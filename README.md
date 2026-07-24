@@ -6,6 +6,7 @@
   - [Instructions](#instructions)
   - [Dev Note](#dev-note)
   - [Version 2.0](#version-20)
+  - [Version 1.0](#version-10)
   - [Reference](#reference)
 
 This module provides an improved GPS functionality with a better and faster accuracy location reference.
@@ -35,9 +36,15 @@ __It's Root install-able, don't install it by TWRP but with Magisk instead!__
 # It's a Magisk module, if you want to use it in Ksu / Ksu-Next then install "Hybrid mount" module. Restart phone, then install this module. 
 
 #### Version 2.0
-- Supports gps.conf for Rooted Devices (China / Global) 
+- Supports gps.conf for qcom/mtk Devices (China / Global) 
 - Updated README.md
 - Added [release package](https://github.com/mrSnow-tr/UniversalOptmizedGPSConf/releases/latest/download/UniversalOptmizedGPSConf.zip)
+
+#### Version 1.0
+- Better gps.conf for China Devices
+- Works Only on Qcom chip. 
+- Updated README.md
+- Added [release package](https://github.com/mrSnow-tr/UniversalOptmizedGPSConf/releases/tag/v1.0/download/CnOptmizedGPSConf.zip)
 
 ## Reference
 - [skyrocketingHong/OptmizedGPSConf](https://github.com/skyrocketingHong/OptmizedGPSConf)
