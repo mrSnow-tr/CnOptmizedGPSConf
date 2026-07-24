@@ -1,4 +1,4 @@
-#  Universal Optimized GPS File Replacer For China & Global Devices
+#  Universal Dynamic GNSS & GPS Optimizer for China & Global Devices
 
 - [ Optimized GPS File Replacer for qcom & mtk Devices](#optimized-gps-file-replacer-qcom-&-mtk-devices)
   - [How it works?](#how-it-works)
